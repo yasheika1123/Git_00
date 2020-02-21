@@ -1,0 +1,75 @@
+---
+title: "git_00"
+author: "Yasheika Pink"
+date: "Spring semester, maybe in fall"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+Twas brillig, and the slithy toves  
+did gyre and gimble in the wabe:  
+all mimsy were the borogoves  
+and the mome raths outgrabe
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+A governor it was proclaimed this time,  
+When all who would come seeking in New Hampshire  
+Ancestral memories might come together.  
+And those of the name Stark gathered in Bow,  
+A rock-strewn town where farming has fallen off,  
+And sprout-lands flourish where the axe has gone  
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+A Dream Within A Dream by Edgar Allan Poe  
+Take this kiss upon the brow!  
+And, in parting from you now,  
+Thus much let me avow--  
+You are not wrong, who deem  
+That my days have been a dream;  
+Yet if hope has flown away  
+In a night, or in a day,  
+In a vision, or in none,  
+Is it therefore the less gone?  
+All that we see or seem  
+Is but a dream within a dream.  
+
+I stand amid the roar  
+Of a surf-tormented shore,  
+And I hold within my hand  
+Grains of the golden sand--  
+How few! yet how they creep  
+Through my fingers to the deep,  
+While I weep--while I weep!  
+O God! can I not grasp  
+Them with a tighter clasp?  
+O God! can I not save  
+One from the pitiless wave?  
+Is all that we see or seem  
+But a dream within a dream?  
+
